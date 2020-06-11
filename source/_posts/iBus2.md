@@ -3,7 +3,7 @@ title: 「iBUS爱巴士」品牌广告 (二)
 <!-- cover_image: photos/iBus-1.jpg -->
 date: 2019-01-26 00:19:56
 tags: [巴士广告, iBUS, 北京公交集团]
-cover: http://plwckad9o.bkt.clouddn.com/刘潮-II 1.jpg
+cover: https://pic.yupoo.com/seanjue_v/92563ca2/81e8c892.jpg
 ---
 
 # @刘潮 -「瘦」

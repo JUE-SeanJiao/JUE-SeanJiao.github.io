@@ -2,7 +2,7 @@
 title: 「iBUS爱巴士」品牌广告 (一)
 date: 2019-01-23 11:19:56
 tags: [巴士广告, iBUS, 北京公交集团]
-cover: http://plwckad9o.bkt.clouddn.com/北京国安 1.jpg
+cover: https://pic.yupoo.com/seanjue_v/c72cd925/4b088275.jpg
 ---
 
 # 创立并打造「iBUS」品牌

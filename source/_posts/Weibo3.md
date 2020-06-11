@@ -2,7 +2,7 @@
 title: iBUS-微博美学 V影响力峰会 系列广告 (三)
 date: 2019-01-23 11:19:59
 tags: [巴士广告, iBUS, 微博美学, 北京公交集团]
-cover: http://plw8uqvle.bkt.clouddn.com/叔婆饭spfan 1.jpg
+cover: https://pic.yupoo.com/seanjue_v/275bb165/3f9f6204.jpg
 ---
 
 # @吾空空
