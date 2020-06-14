@@ -1,5 +1,5 @@
 ---
-title: 北京巴士广告 - 旅游 活动 (市内篇)
+title: 北京巴士广告 - 旅游 (市内篇)
 date: 2019-1-30 11:03:28
 tags: [巴士广告, 北京公交集团]
 cover: https://pic.yupoo.com/seanjue_v/d03f9a53/big.jpg
@@ -117,4 +117,5 @@ cover: https://pic.yupoo.com/seanjue_v/d03f9a53/big.jpg
 
 # 更多旅游活动广告
 
-[北京巴士广告 - 旅游 活动 (外地篇)](/2019/01/31/Travel2/)
+[北京巴士广告 - 旅游 (周边篇)](/2019/01/31/Travel2/)
+[北京巴士广告 - 旅游 (外省篇)](/2019/01/31/Travel3/)
