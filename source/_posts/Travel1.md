@@ -115,7 +115,7 @@ cover: https://pic.yupoo.com/seanjue_v/d03f9a53/big.jpg
 <figcaption> <center>福田 Foton BJ6180EVCAT / 华宇 Huayu BJD-WG180FA</br>@BRT2 #27915 (京ACE225)</center>
 </figcaption>
 
-# 更多旅游活动广告
+# 更多旅游广告
 
 [北京巴士广告 - 旅游 (周边篇)](/2019/01/31/Travel2/)
 [北京巴士广告 - 旅游 (外省篇)](/2019/01/31/Travel3/)

@@ -119,7 +119,7 @@ cover: https://pic.yupoo.com/seanjue_v/dd7a86dd/big.jpg
 <figcaption> <center>青年 Youngman JNP6183BEV / 华宇 Huayu BJD-WG180N</br>@BRT3区间 #25374 (京AW0020)</center>
 </figcaption>
 
-# 更多旅游活动广告
+# 更多旅游广告
 
 [北京巴士广告 - 旅游 (市内篇)](/2019/01/30/Travel1/)
 [北京巴士广告 - 旅游 (周边篇)](/2019/01/30/Travel2/)

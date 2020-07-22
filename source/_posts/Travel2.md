@@ -171,7 +171,7 @@ cover: https://pic.yupoo.com/seanjue_v/1680ef5b/big.jpg
 <figcaption> <center>福田 Foton BJ6128C8BCD @特8外环 #26709 (京ABB915)</center>
 </figcaption>
 
-# 更多旅游活动广告
+# 更多旅游广告
 
 [北京巴士广告 - 旅游 (市内篇)](/2019/01/30/Travel1/)
 [北京巴士广告 - 旅游 (外省篇)](/2019/01/31/Travel3/)
